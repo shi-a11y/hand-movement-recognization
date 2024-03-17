@@ -1,0 +1,2 @@
+import tensorflow as if 
+print("tensorflow version",tf._version_)
